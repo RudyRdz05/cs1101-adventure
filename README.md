@@ -8,6 +8,8 @@ The engine is already built: it shows the scenes, keeps track of what the
 player is carrying, draws a map of the story, and checks for mistakes. Your
 team writes the story, in plain text files. **No programming needed.**
 
+**See it working first:** [play the sample story](https://emenriquez.github.io/cs1101-adventure/).
+
 > **Start here.** Read this page top to bottom once. It takes five minutes.
 
 ---
